@@ -1,15 +1,12 @@
-  // Your web app's Firebase configuration
-  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-  const firebaseConfig = {
-    apiKey: "AIzaSyApU7_YcSXNXzixSxD8KBRtivt5oVuyj2c",
-    authDomain: "smartmavuno.firebaseapp.com",
-    databaseURL: "https://smartmavuno-default-rtdb.firebaseio.com",
-    projectId: "smartmavuno",
-    storageBucket: "smartmavuno.appspot.com",
-    messagingSenderId: "298910741240",
-    appId: "1:298910741240:web:dbbe6e3dfcfc1568e9c10d",
-    measurementId: "G-N1C5FBGVEE"
-  };
+const firebaseConfig = {
+  apiKey: "AIzaSyBnrq9d9i8_6HFxFLW2YIN8qqPIYxBTolE",
+  authDomain: "mazetu-1dd25.firebaseapp.com",
+  projectId: "mazetu-1dd25",
+  storageBucket: "mazetu-1dd25.appspot.com",
+  messagingSenderId: "224310913703",
+  appId: "1:224310913703:web:3d5ef93a791f33567b0982",
+  measurementId: "G-HGEML75H67"
+};
 
 
   // Initialize Firebase
